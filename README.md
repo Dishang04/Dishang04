@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=48b2db)
 ![](https://img.shields.io/badge/Framework-AFrame-informational?style=flat&logo=a-frame&logoColor=white&color=48b2db)
 ![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=48b2db)
+![](https://img.shields.io/badge/Editor-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=48b2db)
 ![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom&logoColor=white&color=48b2db)
 
 ## 📚 Learning
