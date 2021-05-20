@@ -16,19 +16,20 @@ Here are some ideas to get you started:
 -->
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=48b2db)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=48b2db)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=48b2db)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=48b2db)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=48b2db)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=48b2db)
 ![](https://img.shields.io/badge/Library-Leaflet-informational?style=flat&logo=leaflet&logoColor=white&color=48b2db)
 ![](https://img.shields.io/badge/Tools-MariaDB-informational?style=flat&logo=mariadb&logoColor=white&color=48b2db)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=48b2db)
 
 
 ## 📚 Learning
+![](https://img.shields.io/badge/Laravel-informational?style=flat&logo=react&logoColor=white&color=48b2db)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=48b2db)
-![](https://img.shields.io/badge/Tool-AndroidStudio-informational?style=flat&logo=androidstudio&logoColor=white&color=48b2db)
 ![](https://img.shields.io/badge/Library-Redux-informational?style=flat&logo=redux&logoColor=white&color=48b2db)
+![](https://img.shields.io/badge/Editor-AndoidStudio-informational?style=flat&logo=jetbrains&logoColor=white&color=48b2db)
 ![](https://img.shields.io/badge/Framework-Vue.JS-informational?style=flat&logo=vue.js&logoColor=white&color=48b2db)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=48b2db)
 
