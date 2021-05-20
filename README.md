@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=48b2db)
 ![](https://img.shields.io/badge/Library-Redux-informational?style=flat&logo=redux&logoColor=white&color=48b2db)
 ![](https://img.shields.io/badge/Editor-AndoidStudio-informational?style=flat&logo=android-studio&logoColor=white&color=48b2db)
-![](https://img.shields.io/badge/Framework-Vue.JS-informational?style=flat&logo=vue.js&logoColor=white&color=48b2db)
+![](https://img.shields.io/badge/Framework-Vue.JS-informational?style=flat&logo=Vue.js&logoColor=white&color=48b2db)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=48b2db)
 
 ## 📈 Stats
