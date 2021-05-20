@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=48b2db)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=48b2db)
 ![](https://img.shields.io/badge/Library-Redux-informational?style=flat&logo=redux&logoColor=white&color=48b2db)
-![](https://img.shields.io/badge/Editor-AndoidStudio-informational?style=flat&logo=android-studio&logoColor=white&color=48b2db)
+![](https://img.shields.io/badge/Editor-Andoid-Studio-informational?style=flat&logo=android-studio&logoColor=white&color=48b2db)
 ![](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vue-dot-js&logoColor=white&color=48b2db)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node-dot-js&logoColor=white&color=48b2db)
 
