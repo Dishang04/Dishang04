@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Framework-AFrame-informational?style=flat&logo=aframe&logoColor=white&color=48b2db)
 
 ## 📚 Learning
-![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=48b2db)
+![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=#FF2D20)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=48b2db)
 ![](https://img.shields.io/badge/Library-Redux-informational?style=flat&logo=redux&logoColor=white&color=48b2db)
 ![](https://img.shields.io/badge/Editor-AndoidStudio-informational?style=flat&logo=jetbrains&logoColor=white&color=48b2db)
