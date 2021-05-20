@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Library-Leaflet-informational?style=flat&logo=leaflet&logoColor=white&color=48b2db)
 ![](https://img.shields.io/badge/Tools-MariaDB-informational?style=flat&logo=mariadb&logoColor=white&color=48b2db)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=48b2db)
-![](https://img.shields.io/badge/Framework-A-Frame-informational?style=flat&logo=aframe&logoColor=white&color=48b2db)
+![](https://img.shields.io/badge/Framework-AFrame-informational?style=flat&logo=aframe&logoColor=white&color=48b2db)
 
 ## 📚 Learning
 ![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=48b2db)
