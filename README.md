@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node-dot-js&logoColor=white&color=119ECA)
 
 ## 📈 Stats
-[![Dishang’s github stats](https://github-readme-stats.vercel.app/api?username=Dishang04&count_private=true&show_icons=true&theme=light&bg_color=ffffff&line_height=20&title_color=48b2db&icon_color=48b2db)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dishang04&theme=light&langs_count=6&layout=compact&bg_color=ffffff&title_color=48b2db&icon_color=48b2db)](https://github.com/anuraghazra/github-readme-stats)
+[![Dishang’s github stats](https://github-readme-stats.vercel.app/api?username=Dishang04&count_private=true&show_icons=true&theme=light&bg_color=ffffff&line_height=20&title_color=48b2db&icon_color=119ECA)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dishang04&theme=light&langs_count=6&layout=compact&bg_color=ffffff&title_color=119ECA&icon_color=48b2db)](https://github.com/anuraghazra/github-readme-stats)
 
