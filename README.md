@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=119ECA)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=119ECA)
 ![](https://img.shields.io/badge/Library-Leaflet-informational?style=flat&logo=leaflet&logoColor=white&color=119ECA)
-![](https://img.shields.io/badge/Tools-MariaDB-informational?style=flat&logo=mariadb&logoColor=white&color=119ECA)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=119ECA)
 ![](https://img.shields.io/badge/Framework-AFrame-informational?style=flat&logo=a-frame&logoColor=white&color=119ECA)
 
