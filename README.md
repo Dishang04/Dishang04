@@ -40,7 +40,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=119ECA)
 ![](https://img.shields.io/badge/Library-Redux-informational?style=flat&logo=redux&logoColor=white&color=119ECA)
 ![](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vue-dot-js&logoColor=white&color=119ECA)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node-dot-js&logoColor=white&color=119ECA)
 
 ## 📈 Stats
 [![Dishang’s github stats](https://github-readme-stats.vercel.app/api?username=Dishang04&count_private=true&show_icons=true&theme=light&bg_color=ffffff&line_height=20&title_color=48b2db&icon_color=119ECA)](https://github.com/anuraghazra/github-readme-stats)
